@@ -1,4 +1,4 @@
-Hello World~ Hello
+﻿Hello World~ Hello
 Git Git
 Good Bye~
 
@@ -6,3 +6,5 @@ ABC 추가
 DEF 추가
 
 이것은 버그 입니다. 버그를 수정했습니다.
+
+이것은 기능 입니다. 타이머 기능을 추가 했습니다.
