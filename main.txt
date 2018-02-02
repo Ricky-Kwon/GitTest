@@ -1,5 +1,5 @@
 ﻿Hello World~ Hello
-Git Git
+Git
 Good Bye~
 
 ABC 추가
